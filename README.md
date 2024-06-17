@@ -1,1 +1,1 @@
-A novel experiment to understand Kolmogorov-Arnold Networks
+**A novel experiment to understand Kolmogorov-Arnold Networks**
